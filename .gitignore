@@ -4,3 +4,4 @@ env.py
 env.pyc
 __pycache__
 .pytest_cache
+test_mail_service.py
